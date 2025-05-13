@@ -20,5 +20,5 @@ How to run:
 - in terminal use: `poetry shell`
 - to run the server (Redfish API simulation): `poetry run uvicorn app:app --reload`
 - do not close the current termina, but open another one.
-- in the new terminal run the app.py (`py app.py`, `python app.py`, `python3 app.py`, or just run it from IDE)
+- in the new terminal run the app.py (`py get_data.py`, `python get_data.py`, `python3 get_data.py`, or just run it from IDE)
 - follow the instruction from terminal
