@@ -13,7 +13,7 @@ Each endpoint reads from local JSON files and returns the corresponding data.
 
 How to run:
 
-- install python on your machine
+- install python 3.11+ on your machine
 - in a terminal use: `pip install poetry`
 - cd into the app directory - you should pyproject.toml in the directory.
 - in terminal use: `poetry install`
