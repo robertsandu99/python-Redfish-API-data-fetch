@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "kambi-app"
+version = "0.1.0"
+description = ""
+authors = ["RobertSandu <san_roby@yahoo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.115.12"
+uvicorn = "^0.34.2"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
